@@ -1,0 +1,4 @@
+Flask
+flask-restful
+markdown2
+language-tool-python
